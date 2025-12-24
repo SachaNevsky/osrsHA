@@ -24,6 +24,13 @@ export const links: Route.LinksFunction = () => [
 ];
 
 export function Layout({ children }: { children: React.ReactNode }) {
+  if (typeof window !== 'undefined') {
+    const redirect = sessionStorage.redirect;
+    delete sessionStorage.redirect;
+    if (redirect && redirect !== location.href) {
+      history.replaceState(null, '', redirect);
+    }
+  }
   return (
     <html lang="en">
       <head>
