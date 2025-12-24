@@ -5,15 +5,8 @@
     <meta charset="utf-8">
     <title>Redirecting...</title>
     <script>
-        (function () {
-            var redirect = sessionStorage.redirect;
-            delete sessionStorage.redirect;
-
-            if (!redirect && location.pathname !== '/osrsHA/') {
-                sessionStorage.redirect = location.pathname + location.search + location.hash;
-                location.replace('/osrsHA/');
-            }
-        })();
+        sessionStorage.setItem('redirect', location.pathname + location.search + location.hash);
+        location.replace('/osrsHA/');
     </script>
 </head>
 
