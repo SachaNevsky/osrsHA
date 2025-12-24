@@ -5,12 +5,20 @@
     <meta charset="utf-8">
     <title>Redirecting...</title>
     <script>
-        sessionStorage.redirect = location.href;
+        (function () {
+            var redirect = sessionStorage.redirect;
+            delete sessionStorage.redirect;
+
+            if (!redirect && location.pathname !== '/osrsHA/') {
+                sessionStorage.redirect = location.pathname + location.search + location.hash;
+                location.replace('/osrsHA/');
+            }
+        })();
     </script>
-    <meta http-equiv="refresh" content="0;URL='/osrsHA/'">
 </head>
 
 <body>
+    <p>Redirecting...</p>
 </body>
 
 </html>
