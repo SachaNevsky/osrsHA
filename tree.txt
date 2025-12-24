@@ -1,0 +1,673 @@
+Folder PATH listing
+Volume serial number is EC45-3D63
+C:.
++---.react-router
+|   \---types
+|       \---app
+|           +---+types
+|           \---routes
+|               \---+types
++---app
+|   \---routes
++---build
+|   \---client
+|       +---assets
+|       \---osrsHA
++---node_modules
+|   +---.bin
+|   +---.cache
+|   |   \---gh-pages
+|   |       \---git@github.com!SachaNevsky!osrcHA.git
+|   |           +---assets
+|   |           \---osrsHA
+|   +---.vite
+|   |   \---deps
+|   +---.vite-temp
+|   +---@babel
+|   |   +---code-frame
+|   |   |   \---lib
+|   |   +---compat-data
+|   |   |   \---data
+|   |   +---core
+|   |   |   +---lib
+|   |   |   |   +---config
+|   |   |   |   |   +---files
+|   |   |   |   |   +---helpers
+|   |   |   |   |   \---validation
+|   |   |   |   +---errors
+|   |   |   |   +---gensync-utils
+|   |   |   |   +---parser
+|   |   |   |   |   \---util
+|   |   |   |   +---tools
+|   |   |   |   +---transformation
+|   |   |   |   |   +---file
+|   |   |   |   |   \---util
+|   |   |   |   \---vendor
+|   |   |   +---node_modules
+|   |   |   |   +---.bin
+|   |   |   |   \---semver
+|   |   |   |       \---bin
+|   |   |   \---src
+|   |   |       \---config
+|   |   |           \---files
+|   |   +---generator
+|   |   |   \---lib
+|   |   |       +---generators
+|   |   |       \---node
+|   |   +---helper-annotate-as-pure
+|   |   |   \---lib
+|   |   +---helper-compilation-targets
+|   |   |   +---lib
+|   |   |   \---node_modules
+|   |   |       +---.bin
+|   |   |       \---semver
+|   |   |           \---bin
+|   |   +---helper-create-class-features-plugin
+|   |   |   +---lib
+|   |   |   \---node_modules
+|   |   |       +---.bin
+|   |   |       \---semver
+|   |   |           \---bin
+|   |   +---helper-globals
+|   |   |   \---data
+|   |   +---helper-member-expression-to-functions
+|   |   |   \---lib
+|   |   +---helper-module-imports
+|   |   |   \---lib
+|   |   +---helper-module-transforms
+|   |   |   \---lib
+|   |   +---helper-optimise-call-expression
+|   |   |   \---lib
+|   |   +---helper-plugin-utils
+|   |   |   \---lib
+|   |   +---helper-replace-supers
+|   |   |   \---lib
+|   |   +---helper-skip-transparent-expression-wrappers
+|   |   |   \---lib
+|   |   +---helper-string-parser
+|   |   |   \---lib
+|   |   +---helper-validator-identifier
+|   |   |   \---lib
+|   |   +---helper-validator-option
+|   |   |   \---lib
+|   |   +---helpers
+|   |   |   \---lib
+|   |   |       \---helpers
+|   |   +---parser
+|   |   |   +---bin
+|   |   |   +---lib
+|   |   |   \---typings
+|   |   +---plugin-syntax-jsx
+|   |   |   \---lib
+|   |   +---plugin-syntax-typescript
+|   |   |   \---lib
+|   |   +---plugin-transform-modules-commonjs
+|   |   |   \---lib
+|   |   +---plugin-transform-typescript
+|   |   |   \---lib
+|   |   +---preset-typescript
+|   |   |   \---lib
+|   |   +---template
+|   |   |   \---lib
+|   |   +---traverse
+|   |   |   \---lib
+|   |   |       +---path
+|   |   |       |   +---inference
+|   |   |       |   \---lib
+|   |   |       \---scope
+|   |   |           \---lib
+|   |   \---types
+|   |       \---lib
+|   |           +---asserts
+|   |           |   \---generated
+|   |           +---ast-types
+|   |           |   \---generated
+|   |           +---builders
+|   |           |   +---flow
+|   |           |   +---generated
+|   |           |   +---react
+|   |           |   \---typescript
+|   |           +---clone
+|   |           +---comments
+|   |           +---constants
+|   |           |   \---generated
+|   |           +---converters
+|   |           +---definitions
+|   |           +---modifications
+|   |           |   +---flow
+|   |           |   \---typescript
+|   |           +---retrievers
+|   |           +---traverse
+|   |           +---utils
+|   |           |   \---react
+|   |           \---validators
+|   |               +---generated
+|   |               \---react
+|   +---@esbuild
+|   |   \---win32-x64
+|   +---@jridgewell
+|   |   +---gen-mapping
+|   |   |   +---dist
+|   |   |   |   \---types
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---remapping
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   +---resolve-uri
+|   |   |   \---dist
+|   |   |       \---types
+|   |   +---sourcemap-codec
+|   |   |   +---dist
+|   |   |   +---src
+|   |   |   \---types
+|   |   \---trace-mapping
+|   |       +---dist
+|   |       +---src
+|   |       \---types
+|   +---@mjackson
+|   |   \---node-fetch-server
+|   |       \---dist
+|   +---@nodelib
+|   |   +---fs.scandir
+|   |   |   \---out
+|   |   |       +---adapters
+|   |   |       +---providers
+|   |   |       +---types
+|   |   |       \---utils
+|   |   +---fs.stat
+|   |   |   \---out
+|   |   |       +---adapters
+|   |   |       +---providers
+|   |   |       \---types
+|   |   \---fs.walk
+|   |       \---out
+|   |           +---providers
+|   |           +---readers
+|   |           \---types
+|   +---@react-router
+|   |   +---dev
+|   |   |   +---dist
+|   |   |   |   +---cli
+|   |   |   |   +---config
+|   |   |   |   |   +---default-rsc-entries
+|   |   |   |   |   \---defaults
+|   |   |   |   +---static
+|   |   |   |   \---vite
+|   |   |   \---module-sync-enabled
+|   |   +---express
+|   |   |   \---dist
+|   |   +---node
+|   |   |   \---dist
+|   |   \---serve
+|   |       \---dist
+|   +---@remix-run
+|   |   \---node-fetch-server
+|   |       +---dist
+|   |       |   \---lib
+|   |       \---src
+|   |           \---lib
+|   +---@rollup
+|   |   +---rollup-win32-x64-gnu
+|   |   \---rollup-win32-x64-msvc
+|   +---@tailwindcss
+|   |   +---node
+|   |   |   \---dist
+|   |   +---oxide
+|   |   +---oxide-win32-x64-msvc
+|   |   \---vite
+|   |       \---dist
+|   +---@types
+|   |   +---estree
+|   |   +---node
+|   |   |   +---assert
+|   |   |   +---compatibility
+|   |   |   +---dns
+|   |   |   +---fs
+|   |   |   +---readline
+|   |   |   +---stream
+|   |   |   +---timers
+|   |   |   +---ts5.6
+|   |   |   \---web-globals
+|   |   +---react
+|   |   |   \---ts5.0
+|   |   \---react-dom
+|   |       \---test-utils
+|   +---accepts
+|   |   \---node_modules
+|   |       \---negotiator
+|   |           \---lib
+|   +---arg
+|   +---array-flatten
+|   +---array-union
+|   +---async
+|   |   +---dist
+|   |   \---internal
+|   +---babel-dead-code-elimination
+|   |   \---dist
+|   +---baseline-browser-mapping
+|   |   \---dist
+|   +---basic-auth
+|   |   \---node_modules
+|   |       \---safe-buffer
+|   +---body-parser
+|   |   +---lib
+|   |   |   \---types
+|   |   \---node_modules
+|   |       +---debug
+|   |       |   \---src
+|   |       \---ms
+|   +---braces
+|   |   \---lib
+|   +---browserslist
+|   +---buffer-from
+|   +---bytes
+|   +---cac
+|   |   +---deno
+|   |   \---dist
+|   +---call-bind-apply-helpers
+|   |   +---.github
+|   |   \---test
+|   +---call-bound
+|   |   +---.github
+|   |   \---test
+|   +---caniuse-lite
+|   |   +---data
+|   |   |   +---features
+|   |   |   \---regions
+|   |   \---dist
+|   |       +---lib
+|   |       \---unpacker
+|   +---chokidar
+|   |   \---esm
+|   +---commander
+|   |   +---lib
+|   |   \---typings
+|   +---commondir
+|   |   +---example
+|   |   \---test
+|   +---compressible
+|   +---compression
+|   |   \---node_modules
+|   |       +---debug
+|   |       |   \---src
+|   |       \---ms
+|   +---confbox
+|   |   \---dist
+|   |       \---shared
+|   +---content-disposition
+|   +---content-type
+|   +---convert-source-map
+|   +---cookie
+|   +---cookie-signature
+|   +---csstype
+|   +---debug
+|   |   \---src
+|   +---dedent
+|   |   \---dist
+|   +---depd
+|   |   \---lib
+|   |       \---browser
+|   +---destroy
+|   +---detect-libc
+|   |   \---lib
+|   +---dir-glob
+|   +---dunder-proto
+|   |   +---.github
+|   |   \---test
+|   +---ee-first
+|   +---electron-to-chromium
+|   +---email-addresses
+|   |   +---lib
+|   |   \---test
+|   +---encodeurl
+|   +---enhanced-resolve
+|   |   \---lib
+|   |       \---util
+|   +---es-define-property
+|   |   +---.github
+|   |   \---test
+|   +---es-errors
+|   |   +---.github
+|   |   \---test
+|   +---es-module-lexer
+|   |   +---dist
+|   |   \---types
+|   +---es-object-atoms
+|   |   +---.github
+|   |   \---test
+|   +---esbuild
+|   |   +---bin
+|   |   \---lib
+|   +---escalade
+|   |   +---dist
+|   |   \---sync
+|   +---escape-html
+|   +---escape-string-regexp
+|   +---etag
+|   +---exit-hook
+|   +---express
+|   |   +---lib
+|   |   |   +---middleware
+|   |   |   \---router
+|   |   \---node_modules
+|   |       +---debug
+|   |       |   \---src
+|   |       \---ms
+|   +---exsolve
+|   |   \---dist
+|   +---fast-glob
+|   |   \---out
+|   |       +---managers
+|   |       +---providers
+|   |       |   +---filters
+|   |       |   +---matchers
+|   |       |   \---transformers
+|   |       +---readers
+|   |       +---types
+|   |       \---utils
+|   +---fastq
+|   |   \---test
+|   +---fdir
+|   |   \---dist
+|   +---filename-reserved-regex
+|   +---filenamify
+|   +---fill-range
+|   +---finalhandler
+|   |   \---node_modules
+|   |       +---debug
+|   |       |   \---src
+|   |       \---ms
+|   +---find-cache-dir
+|   +---find-up
+|   +---forwarded
+|   +---fresh
+|   +---fs-extra
+|   |   \---lib
+|   |       +---copy
+|   |       +---empty
+|   |       +---ensure
+|   |       +---fs
+|   |       +---json
+|   |       +---mkdirs
+|   |       +---move
+|   |       +---output-file
+|   |       +---path-exists
+|   |       +---remove
+|   |       \---util
+|   +---function-bind
+|   |   +---.github
+|   |   \---test
+|   +---gensync
+|   |   \---test
+|   +---get-intrinsic
+|   |   +---.github
+|   |   \---test
+|   +---get-port
+|   +---get-proto
+|   |   +---.github
+|   |   \---test
+|   +---gh-pages
+|   |   +---bin
+|   |   \---lib
+|   +---glob-parent
+|   +---globby
+|   +---globrex
+|   +---gopd
+|   |   +---.github
+|   |   \---test
+|   +---graceful-fs
+|   +---has-symbols
+|   |   +---.github
+|   |   \---test
+|   |       \---shams
+|   +---hasown
+|   |   \---.github
+|   +---http-errors
+|   +---iconv-lite
+|   |   +---encodings
+|   |   |   \---tables
+|   |   \---lib
+|   +---ignore
+|   +---inherits
+|   +---ipaddr.js
+|   |   \---lib
+|   +---is-extglob
+|   +---is-glob
+|   +---is-number
+|   +---isbot
+|   +---jiti
+|   |   +---dist
+|   |   \---lib
+|   +---js-tokens
+|   +---jsesc
+|   |   +---bin
+|   |   \---man
+|   +---json5
+|   |   +---dist
+|   |   \---lib
+|   +---jsonfile
+|   +---lightningcss
+|   |   \---node
+|   +---lightningcss-win32-x64-msvc
+|   +---locate-path
+|   +---lodash
+|   |   \---fp
+|   +---lru-cache
+|   +---magic-string
+|   |   \---dist
+|   +---make-dir
+|   |   \---node_modules
+|   |       +---.bin
+|   |       \---semver
+|   |           \---bin
+|   +---math-intrinsics
+|   |   +---.github
+|   |   +---constants
+|   |   \---test
+|   +---media-typer
+|   +---merge-descriptors
+|   +---merge2
+|   +---methods
+|   +---micromatch
+|   |   \---node_modules
+|   |       \---picomatch
+|   |           \---lib
+|   +---mime
+|   |   \---src
+|   +---mime-db
+|   +---mime-types
+|   |   \---node_modules
+|   |       \---mime-db
+|   +---morgan
+|   |   \---node_modules
+|   |       +---debug
+|   |       |   \---src
+|   |       +---ms
+|   |       \---on-finished
+|   +---ms
+|   +---nanoid
+|   |   +---async
+|   |   +---bin
+|   |   +---non-secure
+|   |   \---url-alphabet
+|   +---negotiator
+|   |   \---lib
+|   +---node-releases
+|   |   \---data
+|   |       +---processed
+|   |       \---release-schedule
+|   +---object-inspect
+|   |   +---.github
+|   |   +---example
+|   |   \---test
+|   |       \---browser
+|   +---on-finished
+|   +---on-headers
+|   +---p-limit
+|   +---p-locate
+|   +---p-map
+|   +---p-try
+|   +---parseurl
+|   +---path-exists
+|   +---path-to-regexp
+|   +---path-type
+|   +---pathe
+|   |   \---dist
+|   |       \---shared
+|   +---picocolors
+|   +---picomatch
+|   |   \---lib
+|   +---pkg-dir
+|   +---pkg-types
+|   |   +---dist
+|   |   \---node_modules
+|   |       \---pathe
+|   |           \---dist
+|   |               \---shared
+|   +---postcss
+|   |   \---lib
+|   +---prettier
+|   |   +---bin
+|   |   +---internal
+|   |   \---plugins
+|   +---proxy-addr
+|   +---qs
+|   |   +---.github
+|   |   +---dist
+|   |   +---lib
+|   |   \---test
+|   +---queue-microtask
+|   +---range-parser
+|   +---raw-body
+|   +---react
+|   |   \---cjs
+|   +---react-dom
+|   |   \---cjs
+|   +---react-refresh
+|   |   \---cjs
+|   +---react-router
+|   |   +---dist
+|   |   |   +---development
+|   |   |   |   \---lib
+|   |   |   |       \---types
+|   |   |   \---production
+|   |   |       \---lib
+|   |   |           \---types
+|   |   \---node_modules
+|   |       \---cookie
+|   |           \---dist
+|   +---readdirp
+|   |   \---esm
+|   +---reusify
+|   |   +---.github
+|   |   |   \---workflows
+|   |   \---benchmarks
+|   +---rollup
+|   |   \---dist
+|   |       +---bin
+|   |       +---es
+|   |       |   \---shared
+|   |       \---shared
+|   +---run-parallel
+|   +---safe-buffer
+|   +---safer-buffer
+|   +---scheduler
+|   |   \---cjs
+|   +---semver
+|   |   +---bin
+|   |   +---classes
+|   |   +---functions
+|   |   +---internal
+|   |   \---ranges
+|   +---send
+|   |   \---node_modules
+|   |       \---debug
+|   |           +---node_modules
+|   |           |   \---ms
+|   |           \---src
+|   +---serve-static
+|   +---set-cookie-parser
+|   |   \---lib
+|   +---setprototypeof
+|   |   \---test
+|   +---side-channel
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-list
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-map
+|   |   +---.github
+|   |   \---test
+|   +---side-channel-weakmap
+|   |   +---.github
+|   |   \---test
+|   +---slash
+|   +---source-map
+|   |   +---dist
+|   |   \---lib
+|   +---source-map-js
+|   |   \---lib
+|   +---source-map-support
+|   +---statuses
+|   +---strip-outer
+|   +---tailwindcss
+|   |   \---dist
+|   +---tapable
+|   |   \---lib
+|   +---tinyglobby
+|   |   \---dist
+|   +---to-regex-range
+|   +---toidentifier
+|   +---trim-repeated
+|   +---tsconfck
+|   |   +---bin
+|   |   +---src
+|   |   \---types
+|   +---type-is
+|   +---typescript
+|   |   +---bin
+|   |   \---lib
+|   |       +---cs
+|   |       +---de
+|   |       +---es
+|   |       +---fr
+|   |       +---it
+|   |       +---ja
+|   |       +---ko
+|   |       +---pl
+|   |       +---pt-br
+|   |       +---ru
+|   |       +---tr
+|   |       +---zh-cn
+|   |       \---zh-tw
+|   +---undici-types
+|   +---universalify
+|   +---unpipe
+|   +---update-browserslist-db
+|   +---utils-merge
+|   +---valibot
+|   |   \---dist
+|   +---vary
+|   +---vite
+|   |   +---bin
+|   |   +---dist
+|   |   |   +---client
+|   |   |   \---node
+|   |   |       \---chunks
+|   |   +---misc
+|   |   \---types
+|   |       \---internal
+|   +---vite-node
+|   |   +---dist
+|   |   \---node_modules
+|   |       \---pathe
+|   |           \---dist
+|   |               \---shared
+|   +---vite-tsconfig-paths
+|   |   +---dist
+|   |   \---src
+|   \---yallist
+\---public
