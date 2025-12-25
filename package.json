@@ -4,12 +4,12 @@
   "type": "module",
   "homepage": "https://sachanevsky.github.io/osrsHA",
   "scripts": {
-    "build": "react-router build",
+    "build": "react-router build && node scripts/copy-404.js",
     "dev": "react-router dev",
     "start": "react-router-serve ./build/server/index.js",
     "typecheck": "react-router typegen && tsc",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build/client/osrsHA --dotfiles --remove '**/*'"
+    "deploy": "gh-pages -d build/client"
   },
   "dependencies": {
     "@react-router/node": "7.10.1",
